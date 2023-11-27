@@ -1,0 +1,630 @@
+﻿@model Dtos.Product.ProductDetialVm
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+@if (Model.model.Any())
+{
+    <div class="site-wrap">
+        <!-- product section -->
+        <div class="product-section layout_padding" data-aos="fade-up">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 offset-lg-2 text-center">
+                        <div class="section-title">
+                            <h3><span class="blue-text">@Model.model.FirstOrDefault().ProductTypeName</h3>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    @if (Model.model.Any())
+                    {
+                        @foreach (var item in Model.model)
+                        {
+                            <div class="col-lg-3 col-md-4 col-sm-12">
+                                <div class="Jewellery-box">
+                                    <h5>$ @item.Price</h5>
+                                    <i>
+                                        <a href="@Url.Action("Product_Details","Products",new{productId=item.Id})"><img width="100%" height="130px" src="~/Product/@item.Image" /></a>
+                                    </i>
+                                    <h3>@item.Name</h3>
+                                    <select id="@item.Id">
+                                        <option>30</option>
+                                        <option>60</option>
+                                        <option>90</option>
+                                        <option>120</option>
+                                        <option>180</option>
+                                    </select>
+                                    @*<a style="color:#fff!important;" onclick="navigateToSignIn('@item.Name','@item.Id','@Url.Action("AddToCart", "Cart", new { Id = item.Id }, Context.Request.Scheme)')" class="test-btn">*@
+                                    <a style="color:#fff!important;" onclick="AddtoCart('@item.Id')" class="test-btn">
+                                        Add to Cart
+                                    </a>
+                                </div>  </div>
+                        }
+                    }
+                    else
+                    {
+
+                        <div class="col-lg-3 col-md-4 col-sm-12">
+                            <div class="Jewellery-box">
+
+                                <p>No product found under this type</p>
+                            </div></div>
+                    }
+                    <div class="view-more-products">
+                        <a link asp-append-version="true" rel="stylesheet" href="@Url.Action("Filter_Products","Products")">
+                            View More
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end product section -->
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+        var metaIcon = @Html.Raw(Json.Serialize(Model.model.FirstOrDefault().MetaIcon));
+        var metaTitle = @Html.Raw(Json.Serialize(Model.model.FirstOrDefault().MetaTitle));
+        var metaDescription = @Html.Raw(Json.Serialize(Model.model.FirstOrDefault().MetaDescription));
+        var ProductTypeName = @Html.Raw(Json.Serialize(Model.model.FirstOrDefault().ProductTypeName));
+        document.head.innerHTML += '<meta title="'+metaTitle+'" icon="'+metaIcon+'" name="description"  content="' +metaDescription +'" description="'+metaDescription+'" />'
+        });
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/3.2.0/screenfull.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+<script type="text/javascript" asp-append-version="true" src="~/js/cart/cart.js"></script>
+}
+else{
+    <head>
+        <link rel="stylesheet" type="text/css" href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" type="text/css" href="https://owlcarousel2.github.io/OwlCarousel2/assets/css/docs.theme.min.css">
+    <script type="text/javascript" src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.min.js"></script>
+    <script type="text/javascript" src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js"></script>
+
+    <style id="compiled-css" type="text/css">
+        .owl-carousel .item {
+            height: 3rem;
+           
+            padding: 0rem;
+        }
+
+        /* EOS */
+    </style>
+
+    <style>
+        .star-icon {
+    color: #ddd;
+    font-size: 2em;
+    position: relative;
+}
+.review-badge {
+    letter-spacing: 2px;
+    display: inline-block ;
+    padding: 0.25em 0.4em;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: top;
+    border-radius: 0.25rem;
+}
+.star-icon.full:before {
+    text-shadow: 0 0 2px rgba(0,0,0,0.7);
+    color: #FDE16D;
+    content: '\2605'; /* Full star in UTF-8 */
+    position: absolute;
+    left: 0;
+}
+
+.star-icon.half:before {
+    text-shadow: 0 0 2px rgba(0,0,0,0.7);
+    color: #FDE16D;
+    content: '\2605'; /* Full star in UTF-8 */
+    position: absolute;
+    left: 0;
+    width: 50%;
+    overflow: hidden;
+}
+
+@@-moz-document url-prefix() { /* Firefox Hack :( */
+  .star-icon {
+    font-size: 50px;
+    line-height: 34px;
+  }
+}
+    </style>
+</head>
+<script type="text/javascript" src="~/js/Authentication/validate.js"></script>
+<div class="site-wrap">
+
+    <div class="bg-light py-3">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 mb-0"><a href="@Url.Action("Index","Home")">Home</a> <span class="mx-2 mb-0">/</span> <strong class="text-black">@Model.productDet.Name</strong></div>
+        </div>
+      </div>
+    </div>
+
+<script>
+    function AddtoCart(id) {
+        debugger
+    $.ajax({
+        type: "GET",
+        url: '/cart/AddToCart?Id='+id+"&qty="+$("#productCount").val(),
+        success: function (res) {
+            console.log(res);
+            toastr.success("Product has been added into cart", "Success");
+            location.href = "/Cart/Index";
+        },
+        error: function (request, status, error) {
+            console.log(request.responseText);
+            console.log(request.error);
+            toastr.success("Product has been added into cart", "Success");
+        }
+    });
+}
+</script>
+    <div class="site-section layout_padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12; mr-auto" style="display: flex">
+            <div class="border text-center col-md-5">
+              <img src="~/Product/@Model.productDet.Image" alt="Image" class="img-fluid p-5">
+          </div>
+          <div class="col-md-6">
+            <h2 class="text-black">@Model.productDet.Name</h2>
+            <p>@Model.productDet.TypeName</p>
+            <p><strong class="text-primary h4">$ @Model.productDet.Price</strong></p>
+
+            <div class="mb-5">
+              <div class="input-group mb-3" style="max-width: 220px;">
+                <div class="input-group-prepend">
+                  <button class="btn btn-outline-primary js-btn-minus" type="button">&minus;</button>
+                </div>
+                <input type="text" id="productCount" class="form-control text-center" value="1" placeholder=""
+                  aria-label="Example text with button addon" aria-describedby="button-addon1">
+                <div class="input-group-append">
+                  <button class="btn btn-outline-primary js-btn-plus" type="button">&plus;</button>
+                </div>
+              </div>
+
+            </div>
+            <p>
+               <a link asp-append-version="true" onclick="AddtoCart('@Model.productDet.Id')"  class="buy-now btn btn-sm height-auto px-4 py-3 btn-primary">Add To Cart</a>    
+                    </p>
+            @*<p><a link asp-append-version="true"  onclick="AddtoCart('@Url.Action("addToCartSolo", "Cart", new { id = Model.productDet.Id }, Context.Request.Scheme)','@Html.Raw(Json.Serialize(E_Comm.Helpers.Cart.DbHandler.GetCartCount()))')" class="buy-now btn btn-sm height-auto px-4 py-3 btn-primary">Add To Cart</a></p>*@
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="site-section layout_padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 offset-lg-2 text-center">
+            <div class="section-title-header">
+              <h3><span class="blue-text">About</span> @Model.productDet.Name</h3>
+            </div>
+          </div>
+          <div class="col-md-12" id="AboutDiv">
+         @*   <p>
+                @Model.productDet.Description.Replace("<p>", "").Replace("</p>","")
+            </p>*@
+          </div>
+          <div class="col-md-12" style="display: none">
+            <div class="info-wrapper">
+              <h5 class="info-question">What is Clonazepam used for?</h5>
+              <p>Clonazepam belongs to benzodiazepines (a family of drugs). This anti-anxiety drug reacts with GABA (a
+                neurotransmitter that regulates messages across the neurological system.) receptors in the brain. Lack
+                of
+                GABA in the human body can lead to panic attacks, Myoclonus, and seizures. Clonazepam increases GABA
+                levels in the human body, reducing panic attacks and seizures.</p>
+            </div>
+            <div class="info-wrapper">
+              <h5 class="info-question">How effective is Clonazepam?</h5>
+              <p>Clonazepam is just as effective as the other benzodiazepines for treating anxiety disorders (panic
+                attacks, Myoclonus, and seizures). Moreover, Clonazepam's safety profile was greater than that of other
+                benzodiazepines. It will take a few weeks to have a positive effect. </p>
+            </div>
+            <div class="info-wrapper">
+              <h5 class="info-question">How should Clonazepam be taken?</h5>
+              <p>Clonazepam is available in the form of a tablet and is taken orally. It usually is used around three
+                times a day with or without a meal (depending on what the doctor has prescribed). It is preferred to
+                take Clonazepam at some fixed times. It is recommended to understand the prescription label fully, and
+                in case of confusion, you should ask your pharmacist or doctor for help. In case of a disintegrating
+                tablet, you should ensure that your hands are wet, Remove the pill and take it immediately. The tablet
+                will dissolve rapidly and can be taken with or without fluids. It is recommended not to stop taking
+                Clonazepam without consulting your doctor, even if you are feeling better. </p>
+            </div>
+            <div class="info-wrapper">
+              <h5 class="info-question">What dose of Clonazepam should be taken?</h5>
+              <p>The dosage of Clonazepam is not fixed. It varies from patient to patient. The seriousness of the
+                medical condition and disorder under treatment is crucial. Additionally, existing medical conditions and
+                the body's response to the medication affect the dosage. Usually, the doctor prescribes a low dose and
+                then moderately increases after 3 to 4 weeks. The doctor must decide whether you will take a single dose
+                a day or divide it three times a day. </p>
+              <p>The general doses of Clonazepam are the following:</p>
+              <ol>
+                <li>Epilepsy (children) = Depends on the age of the child. Dosage will be increased slowly over 2 to
+                  4 weeks.</li>
+                <li>Epilepsy (adults) = Initial dose of 1mg (at night) will be increased from within the range of 4 to 8
+                  mg over 2 to 4 weeks</li>
+                <li>Involuntary muscle spasms (adults) = Initial dose of 1mg (at night) will be increased from within
+                  the range of 4 to 8 mg over 2 to 4 weeks</li>
+                <li>Panic disorder = 1mg to 2mg daily.</li>
+                <li>Restless legs syndrome = 500 micrograms to 2mg each day</li>
+              </ol>
+              <p>People over 65 years and individuals with liver and kidney problems are prescribed low doses. It is
+                important to note that prescriptions and doses set by the doctor should be strictly followed. A sudden
+                stop in the usage of the tablet will have adverse effects and aggravate the condition.</p>
+            </div>
+
+            <div class="info-wrapper">
+              <h5 class="info-question">Why has Clonazepam considered a good treatment for anxiety?</h5>
+              <p>Anxiety is widespread these days, and the use of Clonazepam is a feasible and practical option to
+                deal
+                with anxiety. If your anxiety is becoming extreme and you are experiencing heart palpitations,
+                racing
+                thoughts, sweating, and insomnia, it is better to cure it medically rather than ignoring it. Using
+                clonazepam tablets will help you improve and get quality sleep, restrain racing thoughts and refresh
+                your mind and body. Quality sleep will also help you reduce the stress and toxin you had earlier
+                because
+                of lack of sleep. Other than this, Clonazepam also helps to reduce nervousness, anxiety, and
+                tension.
+                Individuals suffering from anxiety should not allow it to ruin their life when a feasible option is
+                available. Clonazepam can help them deal with their anxiety, depression, and seizures and live
+                healthy
+                lives. </p>
+            </div>
+            <div class="info-wrapper">
+              <h5 class="info-question">What are the side effects of Clonazepam?</h5>
+              <p>Although Clonazepam has so many benefits, like all other medicines and drugs, has few side effects.
+                Side effects of Clonazepam are generally mid and can be controlled. It would help if you continued the
+                dose of Clonazepam as instructed by the doctor since most of the side effects are for a brief period and
+                go away with time. </p>
+              <p>The most common side effects of Clonazepam are:</p>
+              <ol>
+                <li>Drowsiness</li>
+                <li>Depression</li>
+                <li>Dizziness</li>
+                <li>Fatigue</li>
+                <li>Problems with coordination</li>
+              </ol>
+              <p>
+                Give your body some time to adapt to Clonazepam. However, even if these side effects do not go away
+                after some time, you should consult with the doctor.
+              </p>
+              <p>
+                Usually, people deal with mild side effects, but some individuals can face serious side effects. In the
+                case of severe side effects, one should immediately inform their doctor.
+              </p>
+              <p>
+                Serious side effects and their symptoms are:
+              </p>
+              <ol>
+                <li>Breathing becomes very slow and shallow</li>
+                <li>Amnesia (find it difficult to remember things)</li>
+                <li>Liver tissue (skin and sclera turns yellow)</li>
+                <li>Suicidal thoughts</li>
+                <li>Depressed mood</li>
+                <li>Seizures</li>
+                <li>Swollen ankles</li>
+                <li>Issues with controlling body movement</li>
+                <li>You can also have severe allergic reactions.</li>
+              </ol>
+            </div>
+            <div class="info-wrapper">
+              <h5 class="info-question">Alternate treatment options for anxiety</h5>
+              <p>Suppose you cannot afford the medication for anxiety or want to explore alternative treatment options.
+                In that case, you can try different things like decreasing caffeine intake because it limits your
+                ability to deal with anxiety and can cause jitters. Stop the use of Alcohol and nicotine because it will
+                harm anxiety and might increase its frequency. Lead a healthy life by doing exercise. It will help you
+                to decrease your anxiety and stress levels. Try to take a good quality sleep(6-8 hours). It will refresh
+                your brain. Try meditation/yoga. It will help you to deal with your anxiety and stress. You might be
+                able to figure out the reason for your anxiety. Apart from all the natural alternates, medical
+                substitutes for Clonazepam are also available: SSRIs (antidepressants), SNRIs (antidepressants),
+                Beta-Blockers (blood pressure medications), and Buspirone (anti-anxiety).</p>
+            </div>
+            <div class="info-wrapper">
+              <h5 class="info-question">Can I buy Clonazepam online?</h5>
+              <p>You can buy Clonazepam online on several medical and drug websites. However, when buying the drug you
+                should ensure that you are buying authentic Clonazepam, not a counterfeit drug.</p>
+              <p>
+                People from around the globe can now go online to visit pharmacies like ours to buy Clonazepam as they
+                require. Our online pharmacy allows you to purchase anti-anxiety pills that you may need at any time.
+                When you buy Clonazepam through an online pharmacy like us, you are likely to receive the following
+                benefits:
+              </p>
+              <ul>
+                <li>The website contains essential guidelines regarding anti-anxiety pills' usage, dosage and side
+                  effects, making it reliable and easy to find the right drug.</li>
+                <li>
+                  We provide medicines at low rates compared to pharmacies or one-stop medical stores.
+                </li>
+                <li>
+                  We have an option that allows you to chat with our professional pharmacists if you have queries
+                </li>
+                <li>
+                  We protect your privacy. Your information remains discreet.
+                </li>
+                <li>
+                  We allow you to purchase medicines at any time on the clock. Our website is accessible 24/7.
+                </li>
+                <li>
+                  We have different anti-anxiety pills like Clonazepam available that give you a variety to choose from.
+                </li>
+                <li>
+                  We offer express shipping options.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <section class="reviews layout_padding" data-aos="fade-up">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 offset-lg-2 text-center">
+            <div class="section-title">
+              <h3><span class="blue-text">Clients</span> Review <span class="badge badge-primary review-badge">@Model.ReviewListDtos.Count()</span></h3>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 block-3 products-wrap">
+            <div class="owl-carousel owl-theme" style="justify-content: center;
+    display: flex;" >
+                @foreach(var item in Model.ReviewListDtos)
+                {
+              <div class="review text-center" style="">
+                <img src="images/1.png" class="reviewer-pic" alt="">
+                <h4 class="subheading reviewer-name">@item.FullName</h4>
+                @*<h6 class="subheading muted reviewer-city">Dallas, Texas</h6>*@
+                <div class="rating item">
+                                        @if(item.Rating=="not provided")
+                                        {<span class="star-icon">☆</span>
+                                             <span class="star-icon">☆</span>
+                        <span class="star-icon">☆</span>
+                          <span class="star-icon">☆</span>
+                        <span class="star-icon">☆</span>
+                                        }
+                                        @if(item.Rating=="Amazing"){
+                    <span class="star-icon full">☆</span>
+<span class="star-icon full">☆</span>
+<span class="star-icon full">☆</span>
+<span class="star-icon full">☆</span>
+<span class="star-icon full">☆</span>
+                    }
+                                        @if(@item.Rating=="Good")
+                                        {
+                        <span class="star-icon full">☆</span>
+<span class="star-icon full">☆</span>
+<span class="star-icon full">☆</span>
+<span class="star-icon full">☆</span>
+                        <span class="star-icon">☆</span>
+                    }
+                                         @if(@item.Rating=="Average"){
+<span class="star-icon full">☆</span>
+<span class="star-icon full">☆</span>
+<span class="star-icon full">☆</span>
+                        <span class="star-icon">☆</span>
+                        
+                        <span class="star-icon">☆</span>
+                    }
+                                         @if(@item.Rating=="Not Good")
+                    {
+                        <span class="star-icon full">☆</span>
+<span class="star-icon full">☆</span>
+                        <span class="star-icon">☆</span>
+                          <span class="star-icon">☆</span>
+                        <span class="star-icon">☆</span>
+                    }
+                                         @if(@item.Rating=="Bad"){
+                        
+                        <span class="star-icon full">☆</span>
+                        <span class="star-icon">☆</span>
+                        <span class="star-icon">☆</span>
+                          <span class="star-icon">☆</span>
+                        <span class="star-icon">☆</span>
+                    }
+                 
+                </div>
+                <p class="small">@item.Review</p>
+              </div>
+            }
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+   <script type="text/javascript">
+    //<![CDATA[
+
+
+        $('.owl-carousel').owlCarousel({
+            loop: false,
+            margin: 10,
+           dots:false,
+           autoplay: false,
+           autoplayTimeout:300,
+            nav: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 4
+                }
+            }
+        })
+
+
+        //]]></script>
+    @await Html.PartialAsync("_AddReviewSection")
+
+    <div class="site-section layout_padding">
+      <div class="container">
+        <div class="row">
+          <div class="section-title-header">
+            <h3><span class="blue-text"></span>FAQs</h3>
+          </div>
+                    @{
+                        int index = 1;
+                        foreach (var item in Model.Faq)
+                        {
+
+                            string hrefString = "#collapse" + index;
+                            string ans = "collapse" + index;
+                                                        <div class="col-md-12">
+                                        <div class="border mb-3 collapse-wrapper">
+                                                                <h3 class="h6 mb-0">
+                                                                    <a class="d-block" data-toggle="collapse" href="@hrefString" role="button"
+                                                                   aria-expanded="false" aria-controls="@ans">@item.Question</a>
+                                                                </h3>
+
+                                                                <div class="collapse" id="@ans">
+                                            <div class="py-2 px-4">
+                                              <p class="mb-0">@item.Answer
+                                              </p>
+                                            </div>
+                                          </div>
+                                        </div>
+                                                        </div>
+                            index = index + 1;
+                        }
+
+                }
+          @*<div class="col-md-12">
+            <div class="border mb-3 collapse-wrapper">
+              <h3 class="h6 mb-0"><a class="d-block" data-toggle="collapse" href="#collapse2" role="button"
+                  aria-expanded="false" aria-controls="collapse2">How long does it take Clonazepam to work?</a>
+              </h3>
+
+              <div class="collapse" id="collapse2">
+                <div class="py-2 px-4">
+                  <p class="mb-0">There is no fixed time frame for Clonazepam to work. It varies for person to person
+                    and for what medical condition you use the drug. In the case of panic attacks and restless syndrome,
+                    Clonazepam usually takes an hour to work. For seizures and fits, it takes around a week to work.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <div class="border mb-3 collapse-wrapper">
+              <h3 class="h6 mb-0"><a class="d-block" data-toggle="collapse" href="#collapse3" role="button"
+                  aria-expanded="false" aria-controls="collapse3">Can I take Clonazepam in pregnancy?</a></h3>
+
+              <div class="collapse" id="collapse3">
+                <div class="py-2 px-4">
+                  <p class="mb-0">Clonazepam usually is not recommended during pregnancy because there is not enough
+                    data and research to conclude whether an individual can take Clonazepam during pregnancy. Usage of
+                    Clonazepam during pregnancy can have adverse effects on the baby, and he might be born with
+                    withdrawal side effects. However, if you are taking Clonazepam before getting pregnant, you should
+                    not stop its intake because a sudden stop of Clonazepam will affect your health. It is also possible
+                    that you might have to continue using Clonazepam because it helps you stay healthy. In any case,
+                    it’s better to consult with a doctor first.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <div class="border mb-3 collapse-wrapper">
+              <h3 class="h6 mb-0"><a class="d-block" data-toggle="collapse" href="#collapse4" role="button"
+                  aria-expanded="false" aria-controls="collapse4">Can I drive after taking Clonazepam?</a></h3>
+
+              <div class="collapse" id="collapse4">
+                <div class="py-2 px-4">
+                  <p class="mb-0">It is suggested not to drive after taking Clonazepam because you might not be able to
+                    concentrate and feel sleepy and shaky. Side effects of Clonazepam occur initially when you start the
+                    dosage, so it's better not to drive. However, if you are taking Clonazepam for some time and feel
+                    you can drive without any issues, it is your choice, but it is better to consult your doctor first.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <div class="border mb-3 collapse-wrapper">
+              <h3 class="h6 mb-0"><a class="d-block" data-toggle="collapse" href="#collapse5" role="button"
+                  aria-expanded="false" aria-controls="collapse5">How long can I take Clonazepam?</a></h3>
+
+              <div class="collapse" id="collapse5">
+                <div class="py-2 px-4">
+                  <p class="mb-0">The duration of the intake depends on the medical condition you have. If you are using
+                    Clonazepam for epilepsy, it is prescribed for an extended period. In case of a long period, the
+                    doctor will gradually decrease your dose. For any other medical condition, a doctor will review the
+                    need for Clonazepam depending on your condition.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>*@
+        </div>
+      </div>
+    </div>
+
+    @*<div class="site-section bg-secondary bg-image" style="background-image: url('images/bg_2.jpg');">
+      <div class="container">
+        <div class="row align-items-stretch">
+          <div class="col-lg-6 mb-5 mb-lg-0">
+            <a href="#" class="banner-1 h-100 d-flex" style="background-image: url('images/bg_1.jpg');">
+              <div class="banner-1-inner align-self-center">
+                <h2>Pharma Products</h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae ex ad minus rem odio voluptatem.
+                </p>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-6 mb-5 mb-lg-0">
+            <a href="#" class="banner-1 h-100 d-flex" style="background-image: url('images/bg_2.jpg');">
+              <div class="banner-1-inner ml-auto  align-self-center">
+                <h2>Rated by Experts</h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae ex ad minus rem odio voluptatem.
+                </p>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+*@
+
+ 
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/3.2.0/screenfull.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+        var metaIcon = @Html.Raw(Json.Serialize(Model.productDet.Icon));
+        var metaTitle = @Html.Raw(Json.Serialize(Model.productDet.MetaTitle));
+        var metaDescription = @Html.Raw(Json.Serialize(Model.productDet.MetaInfo));
+        document.head.innerHTML += '<meta title="'+metaTitle+'" icon="'+metaIcon+'" name="description"  content="' +metaDescription +'" description="'+metaDescription+'" />'
+        });
+    </script>
+<script>
+$(document).ready(function() { 
+   $("#AboutDiv").html(@Html.Raw(Json.Serialize(Model.productDet.Description)));  
+});
+</script>
+</div>
+}

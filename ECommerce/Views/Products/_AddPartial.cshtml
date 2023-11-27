@@ -1,0 +1,167 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+
+<div class="col-12">
+    <div class="card shadow ">
+<div class="card-body">
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label for="firstname">Product Name</label>
+                                    <input type="text" id="productName" class="form-control" onkeyup="resetValidationSingle(event)">
+                                    <small id="ProductNameErr" class="text-danger"></small>                           
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label for="lastname">Product Price (Rs)</label>
+                                    <input type="number" id="ProductPrice" class="form-control" onkeyup="resetValidationSingle(event)">
+                                    <small id="ProductPriceErr" class="text-danger"></small>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label>Product Image</label>
+                                    <div style="border: 1px solid #dee2e6; padding: 0.2rem; border-radius: 0.2rem">
+                                    <input onchange="ValidateImageExtension(this);" type="file" id="ProductImage" class="form-control-file" oninput="resetValidationSingle(event)">
+                                    </div>
+                                    <small id="ProductImageErr" class="text-danger"></small>
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label for="inputLang">Product Type</label>
+                                    <select id="ProductType" onchange="resetValidationSingle(event)" style="color: #000;" id="TypeId" class="form-control"  asp-items="@(new SelectList(ViewBag.ProductTypes, "Value", "Text"))">
+                                    <option value="0">---Select Product Type---</option>
+                                    </select>
+                                    <small class="text-danger" id="ProductTypeErr"></small>
+                                </div>
+                            </div>
+                                <div class="form-row">
+                                <div class="form-group col-md-4">
+                                    <label>Meta Title</label>
+                                    <div style="">
+                                    <input  type="text" id="MetaTitle" class="form-control">
+                                    </div>
+                                    <small id="MetaTitleErr" class="text-danger"></small>
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="inputLang">Meta Info</label>
+                                    <input type="text" id="MetaInfo" class="form-control" />
+                                    <small class="text-danger" id="MetaInfoErr"></small>
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="inputLang">Url Referer</label>
+                                    <input type="text" id="UrlReferer"    class="form-control">
+                                 
+                                    <small class="text-danger" id="UrlRefererErr"></small>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-md-12">
+                                    <div class="">
+                                        <div class="">
+                                            <h5 class="card-title">Description</h5>
+                                            <div id="DescriptionDiv">
+                                                   <div id="editor" style="height:200px;" onclick="removeErrMsgEditor()">
+                                              </div>
+                                            </div>
+                                          
+                                            <small id="ProductDescriptionErr" class="text-danger"></small>
+                                        </div>
+                                    </div>
+                                    @*                                    <div class="card shadow">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Product Description</h5>
+                                           <textarea class="form-control"  rows="4" id="Description"></textarea>
+                                          
+                                        </div>
+                                    </div>*@
+                                </div>
+                            </div>
+                         
+            <div class="form-row">
+                <div class="form-group col-md-6  ">
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" class="custom-control-input" id="active" checked>
+                        <label class="custom-control-label" for="active">Active</label>
+                    </div>
+                </div>
+                <div class="form-group col-md-6 text-right ">
+                    <button onclick="SaveProduct('@Url.Action("AddOrEdit","Products")')" type="button" class="btn btn-primary">Submit</button>
+                    <button type="button" onclick="Clear()" class="btn btn-secondary">Reset</button>
+                </div>
+            </div>
+                           
+              </div>
+  </div>
+</div>
+<script>
+    var editor = document.getElementById('editor');
+    if (editor) {
+        var toolbarOptions = [
+            [
+                {
+                    'font': []
+                }],
+            [
+                {
+                    'header': [1, 2, 3, 4, 5, 6, false]
+                }],
+            ['bold', 'italic', 'underline', 'strike'],
+            ['blockquote', 'code-block'],
+            [
+                {
+                    'header': 1
+                },
+                {
+                    'header': 2
+                }],
+            [
+                {
+                    'list': 'ordered'
+                },
+                {
+                    'list': 'bullet'
+                }],
+            [
+                {
+                    'script': 'sub'
+                },
+                {
+                    'script': 'super'
+                }],
+            [
+                {
+                    'indent': '-1'
+                },
+                {
+                    'indent': '+1'
+                }], // outdent/indent
+            [
+                {
+                    'direction': 'rtl'
+                }], // text direction
+            [
+                {
+                    'color': []
+                },
+                {
+                    'background': []
+                }], // dropdown with defaults from theme
+            [
+                {
+                    'align': []
+                }],
+            ['clean'] // remove formatting button
+        ];
+        var quill = new Quill(editor,
+            {
+                modules:
+                {
+                    toolbar: toolbarOptions
+                },
+                theme: 'snow'
+            });
+    }
+</script>

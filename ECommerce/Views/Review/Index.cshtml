@@ -1,0 +1,144 @@
+@using Dtos.ReviewDtos
+@model IEnumerable<ReviewAdminListDto>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<head>
+     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/3.2.0/screenfull.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
+
+    <style id="compiled-css" type="text/css">
+        /*  html, body {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0
+        }*/
+
+        #content {
+            display: inline-block;
+            width: auto;
+            height: auto;
+            position: relative;
+            background-color: #00f;
+            text-align: center;
+            padding: 100px;
+            box-sizing: border-box
+        }
+
+            #content.fullscreen {
+                display: block;
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                top: 0;
+                left: 0
+            }
+
+        #showtoast {
+            margin-left: 20px
+        }
+
+        #content p {
+            color: #fff;
+            font-weight: bold;
+            text-align: center;
+            max-width: 400px;
+            margin-left: auto;
+            margin-right: auto
+        }
+        .w-100{
+            width:100%;
+        }
+        /* EOS */
+    </style>
+
+
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+ 
+</head>
+<div class="container-fluid">
+    <div class="row">
+                <div class="row justify-content-center">
+                    <div class="col-12">
+                        <div class="row align-items-center ">
+                             <div class="col my-4">
+                                <h2 class="h3 mb-0 page-title">Add Reviews</h2>
+                            </div>
+                        </div>
+                     
+                       <div class="col-md-12">
+
+                                 <div class="" id="AddOrUpdate">
+                                       @await Html.PartialAsync("_AddPartial")
+                                 </div>
+                           </div>
+
+               
+
+                            <div class="col-md-12">
+                                <div class="row">
+                                    <!-- Small table -->
+                                    <div class="col-md-12 my-4" id="view-all">
+
+                                    
+                                                <!-- table -->
+                                                @await Html.PartialAsync("_ViewAll")
+                                             
+                                           
+                                   
+                                    </div> <!-- customized table -->
+                                </div> <!-- end section -->
+                            </div>
+                        </div>
+                    </div> <!-- .col-12 -->
+                </div> <!-- .row -->
+  </div> <!-- .container-fluid -->
+            @section Scripts{   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js" integrity="sha512-VEd+nq25CkR676O+pLBnDW09R7VQX9Mdiij052gVCp5yVH3jGtH70Ho/UUv4mJDsEdTvqRCFZg0NKGiojGnUCw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+ 
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+  
+}
+
+
+
+<script asp-append-version="true" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script asp-append-version="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
+
+
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="text/javascript">
+
+        toastr.options = {
+            "closeButton": false,
+            "debug": false,
+            "newestOnTop": false,
+            "progressBar": true,
+            "positionClass": "toast-top-center",
+            "preventDuplicates": false,
+            "onclick": null,
+            "showDuration": "300",
+            "hideDuration": "1000",
+            "timeOut": "5000",
+            "extendedTimeOut": "1000",
+            "showEasing": "swing",
+            "hideEasing": "linear",
+            "showMethod": "fadeIn",
+            "hideMethod": "fadeOut"
+        };
+       
+
+    </script>
+       
+            <script src="~/js/Review.js"></script>

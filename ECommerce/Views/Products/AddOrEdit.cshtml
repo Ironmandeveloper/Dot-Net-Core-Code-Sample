@@ -1,0 +1,167 @@
+﻿@using Dtos.Product
+@model ProductEditDto
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<div class="col-12">
+    <div class="card shadow">
+<form asp-action="Update" method="post" asp-route-id="@Model.Id" autocomplete="off" class="card-body">
+                                  <input type="hidden" asp-for="Id" />
+                                  <input type="hidden" asp-for="Image" />
+                                  <input type="hidden" asp-for="Description" id="Description" />
+                                 
+                      
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label for="firstname">Product Name</label>
+                                    <input asp-for="Name" type="text" id="productName" class="form-control">
+                                    <small id="ProductNameErr" class="text-danger"></small>                           
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label for="lastname">Product Price (Rs)</label>
+                                    <input asp-for="Price" type="number" id="ProductPrice" class="form-control">
+                                    <small id="ProductPriceErr" class="text-danger"></small>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label>Product Image</label>                              
+                                    <input asp-for="file" type="file" id="file" class="form-control-file">
+                                    <small id="ProductImageErr" class="text-danger"></small>
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label for="inputLang">Product Type</label>
+                                    <select id="ProductType" style="color: #000;" id="TypeId" class="form-control" asp-for="TypeId" asp-items="@(new SelectList(Model.ProductTypes, "Value", "Text"))">
+                                         <option value="">---Select Product Type---</option>
+                    </select>
+                                    <small class="text-danger" id="ProductTypeErr"></small>
+                                </div>
+                            </div>
+                               <div class="form-row">
+                                <div class="form-group col-md-4">
+                                    <label>Meta Title</label>
+                                    <div style="">
+                                    <input asp-for="MetaTitle"  type="text" id="MetaTitle" class="form-control">
+                                    </div>
+                                    <small id="MetaTitleErr" class="text-danger"></small>
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="inputLang">Meta Info</label>
+                                    <input type="text" asp-for="MetaInfo" id="MetaInfo" class="form-control" />
+                                    <small class="text-danger" id="MetaInfoErr"></small>
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="inputLang">Url Referer</label>
+                                    <input type="text" id="UrlReferer"  asp-for="UrlReferer"  class="form-control">
+                                 
+                                    <small class="text-danger" id="UrlRefererErr"></small>
+                                </div>
+                            </div>
+            <div class="form-row">
+                <div class="form-group col-md-12">
+                    <div class="">
+                        <div class="">
+                            <h5 class="card-title">Description</h5>
+                            <div id="editor" style="min-height:200px;">
+
+                            </div>
+                            <small id="ProductDescriptionErr" class="text-danger"></small>
+                        </div>
+                    </div>
+                    @*                                    <div class="card shadow">
+                    <div class="card-body">
+                    <h5 class="card-title">Product Description</h5>
+                    <textarea class="form-control"  rows="4" id="Description"></textarea>
+
+                    </div>
+                    </div>*@
+                </div>
+            </div>
+                        
+
+            <div class="form-row">
+                <div class="form-group col-md-6  ">
+                    <div class="custom-control custom-checkbox">
+                        <input asp-for="IsActive" type="checkbox" class="custom-control-input" id="active">
+                        <label class="custom-control-label" for="active">Active/inActive</label>
+                    </div>
+                </div>
+                <div class="form-group col-md-6 text-right ">
+                    <button onclick="return Update(this.form)" type="button" class="btn btn-primary">Update</button>
+                    <button type="button" onclick="clearAddOrEditPartial()" class="btn btn-secondary">Reset</button>
+                </div>
+            </div>
+                           
+                        </form>
+          </div>
+   </div>
+   <script>
+    var editor = document.getElementById('editor');
+    if (editor) {
+        var toolbarOptions = [
+            [
+                {
+                    'font': []
+                }],
+            [
+                {
+                    'header': [1, 2, 3, 4, 5, 6, false]
+                }],
+            ['bold', 'italic', 'underline', 'strike'],
+            ['blockquote', 'code-block'],
+            [
+                {
+                    'header': 1
+                },
+                {
+                    'header': 2
+                }],
+            [
+                {
+                    'list': 'ordered'
+                },
+                {
+                    'list': 'bullet'
+                }],
+            [
+                {
+                    'script': 'sub'
+                },
+                {
+                    'script': 'super'
+                }],
+            [
+                {
+                    'indent': '-1'
+                },
+                {
+                    'indent': '+1'
+                }], // outdent/indent
+            [
+                {
+                    'direction': 'rtl'
+                }], // text direction
+            [
+                {
+                    'color': []
+                },
+                {
+                    'background': []
+                }], // dropdown with defaults from theme
+            [
+                {
+                    'align': []
+                }],
+            ['clean'] // remove formatting button
+        ];
+        var quill = new Quill(editor,
+            {
+                modules:
+                {
+                    toolbar: toolbarOptions
+                },
+                theme: 'snow'
+            });
+    }
+   </script>

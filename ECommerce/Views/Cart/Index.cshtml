@@ -1,0 +1,71 @@
+﻿@using DataModels.Models.Cart
+<style>
+    .btn-outline-primary 
+    {
+        box-shadow:unset !important;
+    }
+
+    .btn-primary:hover, .btn-primary:focus {
+        background: transparent;
+        color: #f4114d !important;
+        border-color: #f4114d !important;
+    }
+
+    .btn-primary:active{
+        background: transparent;
+        color: #f4114d !important;
+        border-color: #f4114d !important;
+    }
+
+    /* Style the active class (and buttons on mouse-over) */
+    .active, .btn:hover {
+        background: transparent;
+        color: #f4114d !important;
+        border-color: #f4114d !important;
+    }
+</style>
+@model List<Cart>
+  <div class="site-wrap">
+    <div class="bg-light py-3">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 mb-0">
+                    <a link asp-append-version="true" rel="stylesheet" href="@Url.Action("index","Home")">Home</a> <span class="mx-2 mb-0">/</span>
+            <strong class="text-black">Cart</strong>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="view-all">
+    @await Html.PartialAsync("_ViewCart")
+    </div>
+  @*  <div class="site-section bg-secondary bg-image" style="background-image: url('images/bg_2.jpg');">
+      <div class="container">
+        <div class="row align-items-stretch">
+          <div class="col-lg-6 mb-5 mb-lg-0">
+            <a href="#" class="banner-1 h-100 d-flex" style="background-image: url('images/bg_1.jpg');">
+              <div class="banner-1-inner align-self-center">
+                <h2>Pharma Products</h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae ex ad minus rem odio voluptatem.
+                </p>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-6 mb-5 mb-lg-0">
+            <a href="#" class="banner-1 h-100 d-flex" style="background-image: url('images/bg_2.jpg');">
+              <div class="banner-1-inner ml-auto  align-self-center">
+                <h2>Rated by Experts</h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae ex ad minus rem odio voluptatem.
+                </p>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>*@
+  </div>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/3.2.0/screenfull.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+<script type="text/javascript" asp-append-version="true" src="~/js/cart/cart.js"></script>

@@ -1,0 +1,163 @@
+﻿@using DataModels.Models
+@model IEnumerable<ProductType>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+    <title>Tiny Dashboard - A Bootstrap Dashboard Template</title>
+    <!-- Simple bar CSS -->
+    <link rel="stylesheet" href="css/simplebar.css">
+    <!-- Fonts CSS -->
+    <link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap"
+          rel="stylesheet">
+    <!-- Icons CSS -->
+    <link rel="stylesheet" href="~/AdminAssets/css/dataTables.bootstrap4.css">
+
+
+    <script asp-append-version="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
+    <link asp-append-version="true" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
+
+
+
+    <link asp-append-version="true" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
+
+
+</head>
+<body>
+    <div class="col-md-12">
+        <div class="card shadow">
+            <div class="card-body">
+                <!-- table -->
+                <table class="table datatables" id="dataTable-1">
+                    <thead>
+                        <tr>
+
+                            <th style="text-align: center;">#</th>
+                            <th style="text-align: center">Name</th>
+                            <th style="text-align: center">Active Status</th>
+                            <th style="text-align: center">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            int j = 1;
+                        }
+                        @{
+                            var list = Model.ToList();
+                        }
+                        @for (int i = Model.Count(); i-- > 0;)
+                        {
+                            string status;
+                            if (list[i].IsActive == true)
+                            {
+                                status = "Active";
+
+                            }
+                            else
+                            {
+                                status = "InActive";
+                            }
+                            <tr>
+                                <td style="text-align: center; padding-right: 2.2rem">@j</td>
+                                <td style="text-align: center; padding-right: 2.2rem">@list[i].Name</td>
+
+                                @if (list[i].IsActive == true)
+                                {
+                                    <td style="text-align: center; padding-right: 2.2rem" title="@status"><span class="dot dot-lg bg-success mr-2"></span></td>
+                                }
+                                else
+                                {
+                                    <td style="text-align: center; padding-right: 2.2rem" title="@status"><span class="dot dot-lg bg-danger mr-2"></span></td>
+                                }
+                                <td style="text-align: center; padding-right: 2.2rem">
+                                    <a onclick="Edit('@Url.Action("AddOrEdit", "ProductType", new { id = list[i].Id }, Context.Request.Scheme)','')" style=" border: none; background:none;"><i class="fa-solid fa-pen-to-square"></i></a> &nbsp;|&nbsp;
+                                    <a onclick="Delete('@Url.Action("DeleteConfirmed", "ProductType", new { id = list[i].Id }, Context.Request.Scheme)','')" style=" border: none; background:none;"><i class="fa fa-trash"></i></a>
+                                </td>
+                            </tr>
+                            j++;
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+    <script asp-append-version="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
+
+
+    <script src="~/AdminAssets/js/jquery.min.js"></script>
+
+    <script src='~/AdminAssets/js/jquery.dataTables.min.js'></script>
+    <script src='~/AdminAssets/js/dataTables.bootstrap4.min.js'></script>
+    <script>
+        $('#dataTable-1').DataTable(
+            {
+                responsive: true,
+                //"scrollX": true,
+
+                'columnDefs': [
+                    {
+                        'targets': [1],
+                        'render': function(data, type, full, meta) {
+                            var maxLength = 35;
+                            if (data) {
+                                if (data.length > maxLength) {
+                                    var tempData = '';
+                                    while (data.length > maxLength) {
+                                        tempData = tempData + data.substring(0, maxLength) + '<br/>';
+                                        data = data.substring(maxLength);
+                                    }
+                                    tempData = tempData + data;
+                                    return tempData;
+                                }
+                                else {
+                                    return data;
+                                }
+
+                            }
+                            else {
+                                return '';
+                            }
+
+                        }
+                    }
+                ],
+
+                autoWidth: true,
+                "lengthMenu": [
+                    [16, 32, 64, -1],
+                    [16, 32, 64, "All"]
+                ]
+            });
+    </script>
+    <script src="js/apps.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56159088-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-56159088-1');
+    </script>
+</body>
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+}
+
+    <script asp-append-version="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
+

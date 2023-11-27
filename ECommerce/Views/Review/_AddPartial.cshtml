@@ -1,0 +1,56 @@
+
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+
+<div class="col-12">
+    <div class="card shadow ">
+        <div class="form-row card-body">
+
+            <div class="form-group col-md-4">
+                <label for="firstname">First Name</label>
+                <input type="text" id="FirstName" class="form-control" onkeyup="resetValidationSingle(event)">
+                <small id="FirstNameErr" class="text-danger"></small>
+            </div>
+            <div class="form-group col-md-4">
+                                    <label for="inputLang">Last Name</label>
+                                    <input id="LastName" type="text" onchange="" style="color: #000;"  class="form-control"  />
+                                    <small class="text-danger" id="LastNameErr"></small>
+                                </div>
+                                 <div class="form-group col-md-4">
+                                    <label for="inputLang">Email</label>
+                                    <input id="Email" type="text" onchange="" style="color: #000;"  class="form-control"  />
+                                    <small class="text-danger" id="EmailErr"></small>
+                                </div>
+                                 <div class="form-group col-md-4">
+                                    <label for="inputLang">Rating</label>
+                                    <input id="Rating" type="text" onchange="" style="color: #000;"  class="form-control"  />
+                                    <small class="text-danger" id="RatingErr"></small>
+                                </div>
+                                 <div class="form-group col-md-4">
+                                    <label for="inputLang">Reviews</label>
+                                    <input id="Reviews" type="text" onchange="" style="color: #000;"  class="form-control"  />
+                                    <small class="text-danger" id="ReviewsErr"></small>
+                                </div>
+            <div class="form-group col-md-2 text-center p-35">
+                <div class="custom-control custom-checkbox">
+                    <input type="checkbox" class="custom-control-input" id="active" checked>
+                    <label class="custom-control-label" for="active">Active</label>
+                </div>
+            </div>
+            <div class="col-md-1 text-left p-28 ">
+                <button onclick="SaveReview('@Url.Action("AddOrEdit","Review")')" type="button" class="btn btn-primary">Submit</button>
+            </div>
+            <div class="col-md-2 text-left p-28">
+                <button type="button" onclick="Clear()" class="btn btn-secondary">Reset</button>
+            </div>
+            
+        </div>
+    </div>
+</div>
+   
+      
+                      

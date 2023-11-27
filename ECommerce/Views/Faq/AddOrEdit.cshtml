@@ -1,0 +1,53 @@
+﻿@using DataModels.Models.Faq
+@model Faq
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<head>
+    <link asp-append-version="true" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
+
+    <style>
+        .mt-33 {
+            margin-top: 33px;
+        }
+    </style>
+</head>
+<div class="col-12">
+    <div class="card shadow">
+
+<form class="form-row card-body"  asp-action="AddOrEdit" asp-route-id="@Model.Id" autocomplete="off">
+
+             <input type="hidden" asp-for="Id" />
+                                <div class="form-group col-md-6">
+                                    <div>
+                    <label for="firstname">Type Name</label>
+                    <input asp-for="Question" id="Question" type="text" class="form-control">
+                    <small id="QuestionErr" class="text-danger"></small>
+                                    </div>
+                        <div class="mt-1">
+                    <label for="firstname">Answer</label>
+                    <textarea asp-for="Answer" class="form-control" type="text" id="Answer" rows="4"></textarea>
+                    <small id="AnswerErr" class="text-danger"></small>
+                </div>
+                                </div>
+            <div class="form-group col-md-3">
+                <div class="custom-control custom-checkbox mt-33">
+                      <input asp-for="IsActive" type="checkbox" class="custom-control-input" id="active">
+                      <label class="custom-control-label" for="active">Active/inActive</label>
+                    </div>
+                        </div>
+            <div class="form-group col-md-3 text-right mt-4">
+                                    <button type="button" onclick="return Update(this.form);" class="btn btn-primary">Update</button>
+                <button type="button" onclick="clearAddOrEditPartial()" class="btn btn-secondary">Reset</button>
+                                </div>
+                                
+                         </form>
+                           @section Scripts{
+                @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+                <script asp-append-version="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
+
+            }
+            <script asp-append-version="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
+              </div>
+</div>  

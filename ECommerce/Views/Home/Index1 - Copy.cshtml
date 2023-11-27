@@ -1,0 +1,75 @@
+﻿@using Dtos.Product
+@model List<ProductByTypeDto> 
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    
+}
+<div class="site-wrap">
+    <!-- product section -->
+    <div class="product-section layout_padding" data-aos="fade-up">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 text-center">
+                    <div class="section-title">
+                        <h3><span class="blue-text">@Model.FirstOrDefault().ProductTypeName</h3>
+
+                    </div>
+                </div>
+            </div>
+            <script>
+    function navigateToSignIn(productType,productId,url){
+        debugger
+        localStorage.setItem("productType",productType);
+        localStorage.setItem("productId",productId);
+        localStorage.setItem("productURL",url);
+        location.href="/cart/add/"+productId;
+    }
+</script>
+            <div class="row">
+                @if (Model.Any())
+                {
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-lg-3 col-md-4 col-sm-12">
+                            <div class="Jewellery-box">
+                        <h5>$ @item.Price</h5>
+                        <i>
+                            <a href="@Url.Action("Product_Details","Products",new{productId=item.Id})"><img width="100%" src="~/Product/@item.Image" /></a>
+                        </i>
+                        <h3>@item.Name</h3>
+                       
+                            <a style="color:#fff!important;" onclick="navigateToSignIn('@item.Name','@item.Id','@Url.Action("AddToCart", "Cart", new { Id = item.Id }, Context.Request.Scheme)')" class="test-btn">
+                            @*<a style="color:#fff!important;" onclick="AddtoCart('@Url.Action("AddToCart", "Cart", new { Id = item.Id }, Context.Request.Scheme)')" class="test-btn">*@
+                            Add to Cart
+                        </a>
+                    </div>  </div>
+                    }
+                    }
+                    else{
+                        
+                        <div class="col-lg-3 col-md-4 col-sm-12">
+                            <div class="Jewellery-box">
+
+                                <p>No product found under this type</p>
+                            </div></div>
+                    }
+                <div class="view-more-products">
+                    <a link asp-append-version="true" rel="stylesheet" href="@Url.Action("Filter_Products","Products")">
+                        View More
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end product section -->
+
+</div>
+
+
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/3.2.0/screenfull.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+<script type="text/javascript" asp-append-version="true" src="~/js/cart/cart.js"></script>

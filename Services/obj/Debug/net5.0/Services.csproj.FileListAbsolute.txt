@@ -1,0 +1,1476 @@
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Services.deps.json
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Services.runtimeconfig.json
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Services.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Services.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Services.pdb
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\DataModels.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Dtos.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\DataModels.pdb
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Dtos.pdb
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\refint\Services.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.pdb
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.genruntimeconfig.cache
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\ref\Services.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Services.deps.json
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Services.runtimeconfig.json
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Services.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Services.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Services.pdb
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\DataModels.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Dtos.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\DataModels.pdb
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\bin\Debug\net5.0\Dtos.pdb
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\refint\Services.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.pdb
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\Services.genruntimeconfig.cache
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Services\obj\Debug\net5.0\ref\Services.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\Services.deps.json
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\Services.runtimeconfig.json
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\Services.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\Services.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\Services.pdb
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\DataModels.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\Dtos.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\DataModels.pdb
+C:\Users\DELL\Desktop\New folder (2)\Services\bin\Debug\net5.0\Dtos.pdb
+C:\Users\DELL\Desktop\New folder (2)\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\New folder (2)\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\New folder (2)\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\New folder (2)\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder (2)\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder (2)\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+C:\Users\DELL\Desktop\New folder (2)\Services\obj\Debug\net5.0\Services.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\obj\Debug\net5.0\refint\Services.dll
+C:\Users\DELL\Desktop\New folder (2)\Services\obj\Debug\net5.0\Services.pdb
+C:\Users\DELL\Desktop\New folder (2)\Services\obj\Debug\net5.0\Services.genruntimeconfig.cache
+C:\Users\DELL\Desktop\New folder (2)\Services\obj\Debug\net5.0\ref\Services.dll
+D:\medAmbian\Services\bin\Debug\net5.0\Services.deps.json
+D:\medAmbian\Services\bin\Debug\net5.0\Services.runtimeconfig.json
+D:\medAmbian\Services\bin\Debug\net5.0\Services.runtimeconfig.dev.json
+D:\medAmbian\Services\bin\Debug\net5.0\Services.dll
+D:\medAmbian\Services\bin\Debug\net5.0\Services.pdb
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\mscorlib.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\netstandard.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Collections.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Console.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Core.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Data.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Linq.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Memory.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Web.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Windows.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\medAmbian\Services\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\medAmbian\Services\bin\Debug\net5.0\DataModels.dll
+D:\medAmbian\Services\bin\Debug\net5.0\Dtos.dll
+D:\medAmbian\Services\bin\Debug\net5.0\DataModels.pdb
+D:\medAmbian\Services\bin\Debug\net5.0\Dtos.pdb
+D:\medAmbian\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+D:\medAmbian\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\medAmbian\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+D:\medAmbian\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+D:\medAmbian\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+D:\medAmbian\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+D:\medAmbian\Services\obj\Debug\net5.0\Services.dll
+D:\medAmbian\Services\obj\Debug\net5.0\refint\Services.dll
+D:\medAmbian\Services\obj\Debug\net5.0\Services.pdb
+D:\medAmbian\Services\obj\Debug\net5.0\Services.genruntimeconfig.cache
+D:\medAmbian\Services\obj\Debug\net5.0\ref\Services.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\Services.deps.json
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\Services.runtimeconfig.json
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\Services.runtimeconfig.dev.json
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\Services.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\Services.pdb
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\mscorlib.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\netstandard.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Collections.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Console.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Core.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Data.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Linq.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Memory.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Web.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Windows.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\DataModels.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\Dtos.dll
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\DataModels.pdb
+D:\medAmbian\medAmbian\Services\bin\Debug\net5.0\Dtos.pdb
+D:\medAmbian\medAmbian\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+D:\medAmbian\medAmbian\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\medAmbian\medAmbian\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+D:\medAmbian\medAmbian\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+D:\medAmbian\medAmbian\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+D:\medAmbian\medAmbian\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+D:\medAmbian\medAmbian\Services\obj\Debug\net5.0\Services.dll
+D:\medAmbian\medAmbian\Services\obj\Debug\net5.0\refint\Services.dll
+D:\medAmbian\medAmbian\Services\obj\Debug\net5.0\Services.pdb
+D:\medAmbian\medAmbian\Services\obj\Debug\net5.0\Services.genruntimeconfig.cache
+D:\medAmbian\medAmbian\Services\obj\Debug\net5.0\ref\Services.dll

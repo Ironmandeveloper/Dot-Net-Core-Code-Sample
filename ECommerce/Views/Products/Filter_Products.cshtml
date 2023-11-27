@@ -1,0 +1,159 @@
+﻿@using Dtos.Product
+@model List<ProductDto>
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<body>
+
+    <div class="site-wrap">
+
+
+   
+
+        <div class="bg-light py-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 mb-0">
+                        <a link asp-append-version="true" rel="stylesheet" href="@Url.Action("index","Home")">Home</a> <span class="mx-2 mb-0">/</span> <strong class="text-black">Store</strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="site-section">
+            <div class="container">
+
+                <div class="row" style="display:none;">
+                    <div class="col-lg-6">
+                        <h3 class="mb-3 h6 text-uppercase text-black d-block">Filter by Price</h3>
+                        <div id="slider-range" class="border-primary"></div>
+                        <input type="text" name="text" id="amount" class="form-control border-0 pl-0 bg-white" disabled="" />
+                    </div>
+                    <div class="col-lg-6">
+                        <h3 class="mb-3 h6 text-uppercase text-black d-block">Filter by Reference</h3>
+                        <button type="button" class="btn btn-primary btn-md dropdown-toggle px-4" id="dropdownMenuReference"
+                                data-toggle="dropdown">
+                            Reference
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuReference">
+                            <a class="dropdown-item" >Relevance</a>
+                            <a class="dropdown-item">Name, A to Z</a>
+                            <a class="dropdown-item">Name, Z to A</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item">Price, low to high</a>
+                            <a class="dropdown-item">Price, high to low</a>
+                        </div>
+                    </div>
+                </div>
+                    <script>
+    function navigateToSignIn(productType,productId,url){
+        debugger
+        localStorage.setItem("productType",productType);
+        localStorage.setItem("productId",productId);
+        localStorage.setItem("productURL",url);
+        location.href="/cart/add/"+productId;
+    }
+</script>
+                <div class="row">
+                    @foreach(var data in Model){
+                    <div class="col-lg-3 col-md-4">
+                        <div class="product-page-item">
+                            <a href="@Url.Action("Product_Details","Products", new { productId = data.Id })"><img src="~/Product/@data.Image" alt=""></a>
+                            <div class="down-content">
+                              
+                                <a link asp-append-version="true" rel="stylesheet" href="@Url.Action("Product_Details","Products", new { productId = data.Id })">
+                                    <h4>@data.Name</h4>
+                                </a>
+                                <h6>$ @data.Price</h6>
+                                <span><a link asp-append-version="true"  onclick="navigateToSignIn('@data.Name','@data.Id','@Url.Action("AddToCart", "Cart", new { Id = data.Id }, Context.Request.Scheme)')"><i class="icon-shopping-cart"></i></a></span>
+                            </div>
+                        </div>
+                    </div>
+                    }
+                </div>
+                <div class="row mt-5" style="display: none">
+                    <div class="col-md-12 text-center">
+                        <div class="site-block-27">
+                            <ul>
+                                <li><a href="~/#">&lt;</a></li>
+                                <li class="active"><span>1</span></li>
+                                <li><a href="~/#">2</a></li>
+                                <li><a href="~/#">3</a></li>
+                                <li><a href="~/#">4</a></li>
+                                <li><a href="~/#">5</a></li>
+                                <li><a href="~/#">&gt;</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+@*
+        <div class="site-section bg-secondary bg-image" style="background-image: url('images/bg_2.jpg');">
+            <div class="container">
+                <div class="row align-items-stretch">
+                    <div class="col-lg-6 mb-5 mb-lg-0">
+                        <a href="~/#" class="banner-1 h-100 d-flex" style="background-image: url('images/bg_1.jpg');">
+                            <div class="banner-1-inner align-self-center">
+                                <h2>Pharma Products</h2>
+                                <p>
+                                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae ex ad minus rem odio voluptatem.
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-6 mb-5 mb-lg-0">
+                        <a href="~/#" class="banner-1 h-100 d-flex" style="background-image: url('images/bg_2.jpg');">
+                            <div class="banner-1-inner ml-auto  align-self-center">
+                                <h2>Rated by Experts</h2>
+                                <p>
+                                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae ex ad minus rem odio voluptatem.
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+*@
+        
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/3.2.0/screenfull.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+    <script>
+         function AddtoCart (url){
+    console.log("url");
+    console.log(url);
+        $.ajax({
+            type: "POST",
+            url: url,
+            success: function(res) {
+                 toastr.success("Product has been added into cart", "Success");
+                var cartCount = document.getElementById("cartCountSpan").innerHTML;
+                 document.getElementById("cartCountSpan").innerHTML = "";
+                 $("#cartCountSpan").append(parseInt(cartCount) + 1);
+            },
+        error: function (request, status, error) {
+            console.log("error");
+            console.log(request.responseText);
+            toastr.success("Product has been added into cart", "Success");
+            var cartCount = document.getElementById("cartCountSpan").innerHTML;
+            document.getElementById("cartCountSpan").innerHTML = "";
+            $("#cartCountSpan").append(parseInt(cartCount) + 1);
+        }
+        });
+    }
+    </script>
+
+</body>
+
+</html>

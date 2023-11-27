@@ -1,0 +1,142 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+
+<section class="reviews layout_padding" data-aos="fade-up">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 offset-lg-2 text-center">
+            <div class="section-title">
+              <h3><span class="blue-text">Add</span> Reviews</h3>
+              <p>Thank you for taking the time to give us your valuable feedback.</p>
+            </div>
+          </div>
+        </div>
+       
+        <div class="row">
+          <div class="col-md-12 mb-5 mb-md-0">
+            <div class="p-3 p-lg-5 border">
+              <div class="form-group row">
+                <div class="col-12">
+                  <h4>Your Rating</h4>
+                </div>
+                <div class="col-12">
+                  <ul class="rate-area">
+                    <input type="radio" id="5-star" name="rating" value="5" /><label id="amazing"  for="5-star" title="Amazing">5
+                      stars</label>
+                    <input type="radio" id="4-star" name="rating" value="4" /><label for="4-star" title="Good">4
+                      stars</label>
+                    <input type="radio" id="3-star" name="rating" value="3" /><label for="3-star" title="Average">3
+                      stars</label>
+                    <input type="radio" id="2-star" name="rating" value="2" /><label for="2-star" title="Not Good">2
+                      stars</label>
+                    <input type="radio" id="1-star" name="rating" value="1" /><label for="1-star" title="Bad">1
+                      star</label>
+                  </ul>
+                </div>
+              </div>
+              <div class="form-group row">
+                <div class="col-md-6">
+                  <label for="c_fname" class="text-black">First Name <span class="text-danger">*</span></label>
+                  <input type="text" class="form-control" id="c_fname" name="c_fname">
+                  <small id="c_fnameErr" style="color:red;"></small>
+                </div>
+                <div class="col-md-6">
+                  <label for="c_lname" class="text-black">Last Name <span class="text-danger">*</span></label>
+                  <input type="text" class="form-control" id="c_lname" name="c_lname">
+                  <small id="c_lnameErr" style="color:red;"></small>
+                </div>
+              </div>
+
+              <div class="form-group row mb-5">
+                <div class="col-md-12">
+                  <label for="c_email_address" class="text-black">Email Address <span
+                      class="text-danger">*</span></label>
+                  <input type="text" class="form-control" id="c_email_address" name="c_email_address">
+                     <small id="c_email_addressErr" style="color:red;"></small>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="c_order_notes" class="text-black">Your Review</label>
+                <textarea name="c_order_notes" id="c_order_notes" cols="30" rows="5" class="form-control"
+                  placeholder="Write your review here..."></textarea>
+                 <small id="c_order_notesErr" style="color:red;"></small>
+              </div> 
+              <div class="view-more-products">
+                  <script>
+                      function getParameterByName(name, url = window.location.href) {
+    name = name.replace(/[\[\]]/g, '\\$&');
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+                  </script>
+                  <script>function AddReview() {
+                      var rating = $("input[name='rating']:checked").val();
+                      var productId=getParameterByName('productId');
+                    console.log(productId);
+                      if(rating==undefined){
+                          var rated = "not provided";
+                      }
+    if (rating == 5) {
+        var rated = "Amazing";
+    }
+     if (rating ==4 ) {
+        var rated = "Good";
+    }
+     if (rating == 3) {
+        var rated = "Average";
+    }
+     if (rating == 2) {
+        var rated = "Not Good";
+    }
+     if (rating == 1) {
+        var rated = "Bad";
+    }
+    if (document.getElementById("c_fname").value == "") {
+        document.getElementById("c_fnameErr").innerHTML = "First Name is required";
+        return false;
+    }
+     if ($("#c_lname").val() == "") {
+        document.getElementById("c_lnameErr").innerHTML = "Last Name is required";
+        return false;
+    }
+     if ($("#c_email_address").val() == "") {
+        document.getElementById("c_email_addressErr").innerHTML = "Email is required";
+        return false;
+    }
+    if(!ValidateEmail($("#c_email_address").val())){
+          document.getElementById("c_email_addressErr").innerHTML = "Please provide valid email";
+        return false;
+    }
+     if ($("#c_order_notes").val() == "") {
+        document.getElementById("c_order_notesErr").innerHTML = "Review is required";
+        return false;
+    }
+
+    
+    $.ajax({
+        type: "POST",
+        url: '/Review/AddReview?Reviewid=0&FirstName='+document.getElementById("c_fname").value+"&LastName="+$("#c_lname").val()+"&Email="+$("#c_email_address").val()+"&Reviews="+$("#c_order_notes").val()+"&Rating="+rated+"&ProductId="+productId,
+        dataType: "json",
+        data: "",
+        success: function (res) {
+            console.log(res);
+            toastr.success("Review has been submitted successfully");
+            
+        }, error: function (err) { console.error(err); }
+    });
+    } </script>
+                           <a style="color:#fff" onclick="AddReview()">Submit</a>     
+               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>

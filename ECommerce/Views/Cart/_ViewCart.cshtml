@@ -1,0 +1,238 @@
+﻿@using DataModels.Models.Cart
+@model List<Cart>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+<head>
+    
+  <link href="https://fonts.googleapis.com/css?family=Rubik:400,700|Crimson+Text:400,400i" rel="stylesheet">
+  <link rel="stylesheet" href="~/fonts/icomoon/style.css">
+  <!-- aos -->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+  <link rel="stylesheet" href="~/css/bootstrap.min.css">
+  <link rel="stylesheet" href="~/css/magnific-popup.css">
+  <link rel="stylesheet" href="~/css/jquery-ui.css">
+  <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="~/css/owl.theme.default.min.css">
+
+
+  <link rel="stylesheet" href="~/css/aos.css">
+
+  <link rel="stylesheet" href="~/css/style.css">
+    
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
+    <style>
+        .btn-outline-primary {
+            box-shadow: unset !important;
+        }
+
+        .btn-primary:hover, .btn-primary:focus {
+            background: transparent;
+            color: #f4114d !important;
+            border-color: #f4114d !important;
+        }
+
+        .btn-primary:active {
+            background: transparent;
+            color: #f4114d !important;
+            border-color: #f4114d !important;
+        }
+
+        /* Style the active class (and buttons on mouse-over) */
+        .active, .btn:hover {
+            background: transparent;
+            color: #f4114d !important;
+            border-color: #f4114d !important;
+        }
+    </style>
+</head>
+@{
+    double Total=0;
+    double SubTotal = 0;
+}
+
+<script>
+    function getParameterByName(name, url = window.location.href) {
+    name = name.replace(/[\[\]]/g, '\\$&');
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+    function ProceedToCheckout(){
+        window.location.href = "/checkout/index";
+    }
+</script> 
+<div class="site-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-12" method="post">
+            <div class="site-blocks-table">
+            <table class="table table-bordered" id="CartTbl">
+                <thead>
+                  <tr>
+                    <th class="product-thumbnail">Image</th>
+                    <th class="product-name">Product</th>
+                    <th class="product-price">Price</th>
+                    <th class="product-quantity">Quantity</th>
+                    <th class="product-total">Total</th>
+                    <th class="product-remove">Remove</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  @foreach(var item in Model)
+                  {
+                    <tr>
+                    <td class="product-thumbnail">
+                      <img src="~/Product/@item.Image" alt="Image" class="img-fluid">
+                    </td>
+                    <td class="product-name">
+                      <h2 class="h5 text-black">@item.Name</h2>
+                    </td>
+                    <td>@item.Price</td>
+                    <td>
+                      <div class="input-group mb-3" style="max-width: 120px;">
+                         <div class="input-group-prepend">
+                          <button  class="btn btn-outline-primary js-btn-minus" type="button">&minus;</button>
+                        </div>                      
+                        <input style="background: #fff;" id="qty+@item.CartId" name="@item.CartId"  type="text" class="form-control text-center myCls " value="@item.ProductCount" placeholder=""
+                          aria-label="Example text with button addon" aria-describedby="button-addon1">
+                             <div class="input-group-append">
+                          <button class="btn btn-outline-primary js-btn-plus" type="button">&plus;</button>
+                        </div>            
+                                         
+                      </div>
+
+                    </td>
+                              @{
+                                                Total=Convert.ToDouble(item.Price)*Convert.ToDouble(item.ProductCount);
+                                                SubTotal = SubTotal+Total;
+                                            }         
+                    <td id="total+@item.CartId">$ @Total</td>
+                    <td><a style="
+    color: #fff!important;
+ background:  #f4114d !important;
+" onclick="removeFromCart('@Url.Action("RemoveFromCart","Cart",new{Id=item.CartId})','@Html.Raw(Json.Serialize(E_Comm.Helpers.Cart.DbHandler.GetCartCount()))')" class="btn btn-primary height-auto btn-sm">X</a></td>
+                  </tr>
+                  }
+                </tbody>
+                 @*<button onclick="updateMyCart()" class="btn btn-primary btn-md btn-block">Update Cart</button>*@
+             
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="row mb-5">
+              <div class="col-md-6 mb-3 mb-md-0">
+                        <button style="color:#fff  ;background: transparent;
+            color: #f4114d !important;
+            border-color: #f4114d !important; box-shadow:unset" onclick="updateCart('@Url.Action("UpdateCart","Cart")')" class="btn btn-primary btn-md btn-block">
+                            Update Cart
+                        </button>
+              </div>
+              <div class="col-md-6">
+                        <button style="color:#fff  ;background: transparent;
+            color: #f4114d !important;
+            border-color: #f4114d !important; box-shadow:unset" onclick="location.href='@Url.Action("Index","Home")'" class="btn btn-outline-primary btn-md btn-block">
+                            Continue Shopping
+                        </button>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 pl-5">
+            <div class="row justify-content-end">
+              <div class="col-md-7">
+                <div class="row">
+                  <div class="col-md-12 text-right border-bottom mb-5">
+                    <h3 class="text-black h4 text-uppercase">Cart Totals</h3>
+                  </div>
+                </div>
+                        @{
+                            double shippingCharges = 29.0;
+                            if (SubTotal <= 0)
+                            {
+                                shippingCharges = 0;
+                            }
+                            SubTotal = SubTotal + shippingCharges;
+                        }
+                        <div class="row">
+                       <div class="col-md-7">
+                    <span class="text-black">Shipping Charges</span>
+                  </div>
+                  <div class="col-md-5 text-right">
+                    <strong class="text-black">$ @shippingCharges</strong>
+                  </div>
+
+                  <div class="col-md-7">
+                    <span class="text-black">Sub Total</span>
+                  </div>
+                  <div class="col-md-5 text-right">
+                    <strong class="text-black">$ @SubTotal</strong>
+                  </div>
+                </div>
+                <div class="row mb-5">
+                  <div class="col-md-7">
+                    <span class="text-black">Total</span>
+                  </div>
+                  <div class="col-md-5 text-right">
+                    <strong class="text-black">$ @SubTotal</strong>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-md-12">
+                                @if (Model.Any())
+                                {
+                                    <a style="color:#fff  ;background: transparent;
+            color: #f4114d !important;
+            border-color: #f4114d !important; box-shadow:unset" class="btn btn-primary btn-lg btn-block" link asp-append-version="true" onclick="ProceedToCheckout()">
+                                        Proceed
+                   To
+                   Checkout</a>}
+                   else{
+                        <a style="color:#fff  ;background: transparent;
+            color: #f4114d !important;
+            border-color: #f4114d !important; box-shadow:unset" class="btn btn-primary btn-lg btn-block" link asp-append-version="true" onclick="toastr.error('there are no items present in cart')">
+                                        Proceed
+                   To
+                   Checkout</a>
+                   }
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+<script src="https://cdn.jsdelivr.net/gh/AmagiTech/JSLoader/amagiloader.js"></script>
+
+       <script src="~/https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init({
+      duration: 700,
+    });
+  </script>
+  <script src="~/js/jquery-3.3.1.min.js"></script>
+  <script src="~/js/jquery-ui.js"></script>
+  <script src="~/js/popper.min.js"></script>
+  <script src="~/js/bootstrap.min.js"></script>
+  <script src="~/js/owl.carousel.min.js"></script>
+  <script src="~/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/js/aos.js"></script>
+   
+    <script src="~/js/main.js"></script>
+
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/3.2.0/screenfull.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+<script type="text/javascript" asp-append-version="true" src="~/js/cart/cart.js"></script>

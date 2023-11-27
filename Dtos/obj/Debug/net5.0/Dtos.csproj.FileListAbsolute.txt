@@ -1,0 +1,60 @@
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Dtos\bin\Debug\net5.0\Dtos.deps.json
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Dtos\bin\Debug\net5.0\Dtos.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Dtos\bin\Debug\net5.0\Dtos.pdb
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.AssemblyInfo.cs
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\refint\Dtos.dll
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.pdb
+C:\Users\DELL\Desktop\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\ref\Dtos.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Dtos\bin\Debug\net5.0\Dtos.deps.json
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Dtos\bin\Debug\net5.0\Dtos.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Dtos\bin\Debug\net5.0\Dtos.pdb
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.AssemblyInfo.cs
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\refint\Dtos.dll
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\Dtos.pdb
+C:\Users\DELL\source\repos\medAmbianNKUFinal12\Med-Ambian\Dtos\obj\Debug\net5.0\ref\Dtos.dll
+C:\Users\DELL\Desktop\New folder (2)\Dtos\bin\Debug\net5.0\Dtos.deps.json
+C:\Users\DELL\Desktop\New folder (2)\Dtos\bin\Debug\net5.0\Dtos.dll
+C:\Users\DELL\Desktop\New folder (2)\Dtos\bin\Debug\net5.0\Dtos.pdb
+C:\Users\DELL\Desktop\New folder (2)\Dtos\obj\Debug\net5.0\Dtos.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\New folder (2)\Dtos\obj\Debug\net5.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\New folder (2)\Dtos\obj\Debug\net5.0\Dtos.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\New folder (2)\Dtos\obj\Debug\net5.0\Dtos.AssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder (2)\Dtos\obj\Debug\net5.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder (2)\Dtos\obj\Debug\net5.0\Dtos.dll
+C:\Users\DELL\Desktop\New folder (2)\Dtos\obj\Debug\net5.0\refint\Dtos.dll
+C:\Users\DELL\Desktop\New folder (2)\Dtos\obj\Debug\net5.0\Dtos.pdb
+C:\Users\DELL\Desktop\New folder (2)\Dtos\obj\Debug\net5.0\ref\Dtos.dll
+D:\medAmbian\Dtos\bin\Debug\net5.0\Dtos.deps.json
+D:\medAmbian\Dtos\bin\Debug\net5.0\Dtos.dll
+D:\medAmbian\Dtos\bin\Debug\net5.0\Dtos.pdb
+D:\medAmbian\Dtos\obj\Debug\net5.0\Dtos.csproj.AssemblyReference.cache
+D:\medAmbian\Dtos\obj\Debug\net5.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\medAmbian\Dtos\obj\Debug\net5.0\Dtos.AssemblyInfoInputs.cache
+D:\medAmbian\Dtos\obj\Debug\net5.0\Dtos.AssemblyInfo.cs
+D:\medAmbian\Dtos\obj\Debug\net5.0\Dtos.csproj.CoreCompileInputs.cache
+D:\medAmbian\Dtos\obj\Debug\net5.0\Dtos.dll
+D:\medAmbian\Dtos\obj\Debug\net5.0\refint\Dtos.dll
+D:\medAmbian\Dtos\obj\Debug\net5.0\Dtos.pdb
+D:\medAmbian\Dtos\obj\Debug\net5.0\ref\Dtos.dll
+D:\medAmbian\medAmbian\Dtos\bin\Debug\net5.0\Dtos.deps.json
+D:\medAmbian\medAmbian\Dtos\bin\Debug\net5.0\Dtos.dll
+D:\medAmbian\medAmbian\Dtos\bin\Debug\net5.0\Dtos.pdb
+D:\medAmbian\medAmbian\Dtos\obj\Debug\net5.0\Dtos.csproj.AssemblyReference.cache
+D:\medAmbian\medAmbian\Dtos\obj\Debug\net5.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\medAmbian\medAmbian\Dtos\obj\Debug\net5.0\Dtos.AssemblyInfoInputs.cache
+D:\medAmbian\medAmbian\Dtos\obj\Debug\net5.0\Dtos.AssemblyInfo.cs
+D:\medAmbian\medAmbian\Dtos\obj\Debug\net5.0\Dtos.csproj.CoreCompileInputs.cache
+D:\medAmbian\medAmbian\Dtos\obj\Debug\net5.0\Dtos.dll
+D:\medAmbian\medAmbian\Dtos\obj\Debug\net5.0\refint\Dtos.dll
+D:\medAmbian\medAmbian\Dtos\obj\Debug\net5.0\Dtos.pdb
+D:\medAmbian\medAmbian\Dtos\obj\Debug\net5.0\ref\Dtos.dll

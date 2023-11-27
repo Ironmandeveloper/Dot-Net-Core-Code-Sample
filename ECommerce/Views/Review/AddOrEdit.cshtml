@@ -1,0 +1,66 @@
+@using DataModels.Models.Review
+@model Review
+
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<head>
+    <link asp-append-version="true" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
+
+
+</head>
+<div class="col-12">
+    <div class="card shadow">
+
+<form class="form-row card-body"  asp-action="AddOrEdit" asp-route-id="@Model.Reviewid" autocomplete="off">
+
+                                 <input type="hidden" asp-for="Reviewid" />
+                                <div class="form-group col-md-4">
+                                    <label for="firstname">First Name</label>
+                                    <input asp-for="FirstName" type="text" id="FirstName" class="form-control">
+                                    <small id="TypeNameErr" class="text-danger"></small>
+                                </div>
+                                       <div class="form-group col-md-4">
+                                    <label for="inputLang">Last Name</label>
+                                    <input id="LastName" asp-for="LastName" type="text" onchange="" style="color: #000;"  class="form-control"  />
+                                    <small class="text-danger" id="UrlRefererErr"></small>
+                                </div>
+                                  <div class="form-group col-md-4">
+                                      </div>
+                                       <div class="form-group col-md-4">
+                                    <label for="inputLang">Email</label>
+                                    <input id="Email" asp-for="Email" type="text" onchange="" style="color: #000;"  class="form-control"  />
+                                    <small class="text-danger" id="MetaInfoErr"></small>
+                                </div>
+                                 <div class="form-group col-md-4">
+                                    <label for="inputLang">Rating</label>
+                                    <input id="Rating" asp-for="Rating" type="text" onchange="" style="color: #000;"  class="form-control"  />
+                                    <small class="text-danger" id="MetaInfoErr"></small>
+                                </div>
+                                 <div class="form-group col-md-4">
+                                    <label for="inputLang">Reviews</label>
+                                    <input id="Reviews" asp-for="Reviews" type="text" onchange="" style="color: #000;"  class="form-control"  />
+                                    <small class="text-danger" id="MetaInfoErr"></small>
+                                </div>
+                                <div class="form-group col-md-2 text-center p-35">
+                                 <div class="custom-control custom-checkbox">
+                      <input asp-for="IsActive" type="checkbox" class="custom-control-input" id="active">
+                      <label class="custom-control-label" for="active">Active/inActive</label>
+                    </div>
+                                </div>
+                                 <div class="col-md-1 text-left p-28 ">
+                                    <button type="button" onclick="return Update(this.form);" class="btn btn-primary">Update</button>
+                                </div>
+                                 <div class="col-md-2 text-left p-28">
+                                    <button type="button" onclick="clearAddOrEditPartial()" class="btn btn-secondary">Reset</button>
+                                </div>
+                         </form>
+                           @section Scripts{
+                @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+                <script asp-append-version="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
+
+            }
+            <script asp-append-version="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
+              </div>
+</div>  
